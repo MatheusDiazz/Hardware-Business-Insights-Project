@@ -41,21 +41,20 @@ It was developed as part of the [Power BI for Business Analytics Course](https:/
 ---
 
 ## 📸 Dashboard Preview
-
+### Home View
 ![Dashboard Preview Screenshot](./images/dashboard_preview.png)  
-
+**Finance View** 
 ![Finance View Screenshot](./images/finance_view.png)  
-
+**Sales View**  
 ![Sales View Screenshot](./images/sales_view.png)
-
+**Marketing View**  
 ![Marketing View Screenshot](./images/marketing_view.png)
-
+**Supply Chain View**  
 ![Supply Chain View Screenshot](./images/supplychain_view.png)
-
+**Executive View**  
 ![Executive View Screenshot](./images/executive_view.png)
 
 ---
-
 ## 🙌 Acknowledgements
 This project is inspired by the **Codebasics Power BI course**.  
 Big thanks to [Codebasics](https://codebasics.io/) for providing structured learning content.  
