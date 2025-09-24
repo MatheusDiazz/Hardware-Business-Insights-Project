@@ -5,6 +5,10 @@ It was developed as part of the [Power BI for Business Analytics Course](https:/
 
 ---
 
+## Project Link
+- https://app.powerbi.com/view?r=eyJrIjoiYmQ2ZGU4ZjMtZWY5Yi00NmZlLTk0ZDctOGU1MmY0OWMzMjdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+---
+
 ## 🚀 Project Overview
 - Designed an **interactive Power BI dashboard** to analyze AtliQ’s sales and financial performance.  
 - Transformed and modeled raw data using **Power Query**.  
