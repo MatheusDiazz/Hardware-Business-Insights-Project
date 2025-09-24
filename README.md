@@ -42,7 +42,17 @@ It was developed as part of the [Power BI for Business Analytics Course](https:/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./images/dashboard_preview.png)  
+![Dashboard Preview Screenshot](./images/dashboard_preview.png)  
+
+![Finance View Screenshot](./images/finance_view.png)  
+
+![Sales View Screenshot](./images/sales_view.png)
+
+![Marketing View Screenshot](./images/marketing_view.png)
+
+![Supply Chain View Screenshot](./images/supplychain_view.png)
+
+![Executive View Screenshot](./images/executive_view.png)
 
 ---
 
