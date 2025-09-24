@@ -5,7 +5,7 @@ It was developed as part of the [Power BI for Business Analytics Course](https:/
 
 ---
 
-[🔗 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmQ2ZGU4ZjMtZWY5Yi00NmZILTk0ZDctOGU1MmY0OWMzMjdhIiwidCI6ImM2ZTU0OOWIzLTVmNDUtNDAzMi1hYWU5LWQ0OMjQ0GM1YjljNCJ9)
+[🔗 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmQ2ZGU4ZjMtZWY5Yi00NmZlLTk0ZDctOGU1MmY0OWMzMjdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ---
 
 ## 🚀 Project Overview
