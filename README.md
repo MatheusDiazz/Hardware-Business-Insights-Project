@@ -4,9 +4,8 @@ This project is a **business analytics dashboard** for AtliQ, a fictional hardwa
 It was developed as part of the [Power BI for Business Analytics Course](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) by Codebasics.  
 
 ---
-## 🔗 Project Link
 
-[View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmQ2ZGU4ZjMtZWY5Yi00NmZILTk0ZDctOGU1MmY0OWMzMjdhIiwidCI6ImM2ZTU0OOWIzLTVmNDUtNDAzMi1hYWU5LWQ0OMjQ0GM1YjljNCJ9)
+[🔗 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmQ2ZGU4ZjMtZWY5Yi00NmZILTk0ZDctOGU1MmY0OWMzMjdhIiwidCI6ImM2ZTU0OOWIzLTVmNDUtNDAzMi1hYWU5LWQ0OMjQ0GM1YjljNCJ9)
 ---
 
 ## 🚀 Project Overview
