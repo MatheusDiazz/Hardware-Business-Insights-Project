@@ -41,7 +41,6 @@ It was developed as part of the [Power BI for Business Analytics Course](https:/
 ---
 
 ## 📸 Dashboard Preview
-> *(Insert screenshots of your dashboard here)*  
 
 ![Dashboard Screenshot](./images/dashboard_preview.png)  
 
